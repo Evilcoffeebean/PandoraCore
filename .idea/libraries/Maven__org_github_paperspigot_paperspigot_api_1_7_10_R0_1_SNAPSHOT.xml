@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.github.paperspigot:paperspigot-api:1.7.10-R0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/github/paperspigot/paperspigot-api/1.7.10-R0.1-SNAPSHOT/paperspigot-api-1.7.10-R0.1-20160806.220158-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/github/paperspigot/paperspigot-api/1.7.10-R0.1-SNAPSHOT/paperspigot-api-1.7.10-R0.1-20160806.220158-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/github/paperspigot/paperspigot-api/1.7.10-R0.1-SNAPSHOT/paperspigot-api-1.7.10-R0.1-20160806.220158-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,24 @@
+main: dev.pandora.core.Main
+version: ${project.version}
+name: ${project.name}
+commands:
+  announce:
+    aliases: [a, global]
+  rank:
+    aliases: [setrank, updaterank]
+  coin:
+  ruby:
+  setspawn:
+  message:
+    aliases: [pm, msg, privatemessage, privatemsg]
+  gamemode:
+    aliases: [gm]
+  ban:
+  unban:
+  mute:
+  unmute:
+  kick:
+  report:
+    description: report a player for doing wrong!
+  lookup:
+        description: Lookup ban history for a player.
